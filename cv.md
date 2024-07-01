@@ -23,6 +23,7 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 - React (Basic)
 - SQL
 - Python
+- Java/Spring (Basic)
 
 ## Code Example
 
