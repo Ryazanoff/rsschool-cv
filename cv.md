@@ -50,6 +50,7 @@ function getName() {
 
 - Russian - native speaker
 - English - B1
+- Spanish(basic)
 
 ## Experience
 
