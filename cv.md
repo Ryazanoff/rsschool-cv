@@ -22,6 +22,7 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 - Git
 - React (Basic)
 - SQL
+- C++
 - Python
 - Java/Spring (Basic)
 
