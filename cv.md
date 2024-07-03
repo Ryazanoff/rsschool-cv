@@ -53,6 +53,7 @@ function getName() {
 - English - B1
 - Spanish(basic)
 - French
+- Norske
 
 ## Experience
 
