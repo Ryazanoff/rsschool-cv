@@ -87,12 +87,12 @@ ul {
 pre {
   display: block;
   font-family: monospace;
-  unicode-bidi: isolate;
+  unicode-bidi: normal;
   white-space: pre;
 }
 .pre {
   display: flex;
-  justify-content: center;
+  justify-content: left;
 }
 .rss {
   width: 100px;
