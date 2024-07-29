@@ -25,12 +25,12 @@ body {
   flex-wrap: wrap;
 }
 .avatar {
-  width: 250px;
-  height: 250px;
+  width: 350px;
+  height: 350px;
   object-fit: contain;
   border-radius: 50%;
   display: block;
-  justify-content: center;
+  justify-content: right;
 }
 .section_profile_title {
   margin-top: 25px;
