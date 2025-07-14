@@ -52,8 +52,12 @@ function getName() {
 - Russian - native speaker
 - English - B1
 - Spanish(basic)
+<<<<<<< HEAD
 - French
 - Norske
+=======
+- Dutch(basic)
+>>>>>>> 46594ab3d14b1cacfd25d0baca2220bba020f1b0
 
 ## Experience
 
